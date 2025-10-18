@@ -1,1 +1,1 @@
-Git and GitHub competency learning repository.
+Learned to initialize, clone, commit, push, and manage branches in Git and GitHub as part of my competency assignment.
